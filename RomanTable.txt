@@ -281,10 +281,8 @@ wo	を
 wn	わん
 wk	うぃん
 wd	うぇん
-wl	うぉん
 wq	わい
 ww	うぇい
-wp	うぉう
 xa	しゃ
 xu	しゅ
 xe	しぇ
@@ -339,9 +337,11 @@ lyo	ょ
 -	ー
 tgi	てぃ
 tgu	とぅ
-dgi	でぃ
-dgu	どぅ
-wgo	うぉ
+dci	でぃ
+dcu	どぅ
+wso	うぉ
+wsu	うぉう
+wsp	うぉん
 kt	こと
 st	した
 tt	たち
@@ -369,3 +369,10 @@ gt	ごと
 nt	にち
 dt	だち
 wr	われ
+kf	き
+jf	じゅ
+yf	ゆ
+mf	む
+nf	ぬ
+df	で
+cf	ちぇ
